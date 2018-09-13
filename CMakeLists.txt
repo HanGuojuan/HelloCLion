@@ -3,4 +3,4 @@ project(untitled6)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled6 HelloCLion.cpp)
+add_executable(untitled6 HelloCLion.cpp gcd.hpp)
